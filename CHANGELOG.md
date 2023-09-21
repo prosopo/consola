@@ -2,6 +2,10 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## v4.0.1
+
+[compare changes](https://github.com/unjs/consola/compare/v4.0.0...v4.0.1)
+
 ## v4.0.0
 
 
