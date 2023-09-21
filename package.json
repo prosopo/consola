@@ -1,7 +1,6 @@
 {
   "name": "@prosopo/consola",
-  "private": false,
-  "version": "4.0.1",
+  "version": "4.0.0",
   "description": "Elegant Console Wrapper",
   "keywords": [
     "console",
